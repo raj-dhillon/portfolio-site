@@ -11,14 +11,13 @@ const Skills = () => {
             <div className='text-3xl sm:text-5xl mx-20 font-semibold'>
                 My Skills
             </div>
-
-
+    
             <div className='mt-7 mb-16 grid grid-cols-4 gap-5'>
-              
-                <CPPLogo></CPPLogo>
-                <PythonLogo></PythonLogo>
-                <GithubLogo></GithubLogo>
-                <ReactLogo></ReactLogo>
+              <CPPLogo className='w-20'></CPPLogo>
+              <PythonLogo></PythonLogo>
+              <GithubLogo></GithubLogo>
+              <ReactLogo></ReactLogo>
+
             </div>
 
 
