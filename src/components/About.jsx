@@ -11,7 +11,7 @@ const About = () => {
                 Raj
             </div>  
         </div>
-        <div className='flex flex-wrap mx-20 mt-20 justify-center text-center font-dot-gothic font-bold text-lg'>
+        <div className='flex flex-wrap mx-14 mt-20 justify-center text-center font-dot-gothic font-bold text-lg'>
             
             <div>
                 I'm a Computer Science student at SPU. Among my hobbies are gaming, reading, exercising, and enjoying science fiction/fantasy films
