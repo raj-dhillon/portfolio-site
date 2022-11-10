@@ -14,6 +14,7 @@ const Skills = () => {
 
 
             <div className='mt-7 mb-16 grid grid-cols-4 gap-5'>
+              
                 <CPPLogo></CPPLogo>
                 <PythonLogo></PythonLogo>
                 <GithubLogo></GithubLogo>
