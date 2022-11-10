@@ -13,10 +13,10 @@ const Skills = () => {
             </div>
     
             <div className='mt-7 mb-16 grid grid-cols-4 gap-5'>
-              <CPPLogo></CPPLogo>
-              <PythonLogo></PythonLogo>
-              <GithubLogo></GithubLogo>
-              <ReactLogo></ReactLogo>
+              <CPPLogo className='w-20'></CPPLogo>
+              <PythonLogo className='w-20'></PythonLogo>
+              <GithubLogo className='w-20'></GithubLogo>
+              <ReactLogo className='w-20'></ReactLogo>
 
             </div>
 
