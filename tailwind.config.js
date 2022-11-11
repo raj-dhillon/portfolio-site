@@ -11,7 +11,8 @@ module.exports = {
       },
       fontFamily: {
         'poppins': ['Poppins', 'sans-serif'],
-        'dot-gothic': ['DotGothic16', 'sans-serif']
+        'dot-gothic': ['DotGothic16', 'sans-serif'],
+        'gothic-one': ['Dela Gothic One', 'sans-serif']
       }
     },
   },

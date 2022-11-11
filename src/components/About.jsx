@@ -3,11 +3,11 @@ import React from 'react'
 const About = () => {
   return (
     <section id='about'>
-        <div className='flex flex-col items-center mt-28'>
-            <div className='text-7xl'>
+        <div className='flex flex-col items-center mt-28 text-5xl sm:text-7xl'>
+            <div>
                 Hi, I am
             </div>
-            <div className='text-7xl'>
+            <div>
                 Raj
             </div>  
         </div>

@@ -2,12 +2,14 @@
 // import './App.css';
 import About from './components/About.jsx';
 import Skills from './components/Skills.jsx';
+import Projects from './components/Projects.jsx';
 
 function App() {
   return (
-    <main className='text-main-text font-poppins'>
+    <main className='text-main-text font-gothic-one'>
       <About></About>
       <Skills></Skills>
+      <Projects></Projects>
     </main>
     
   );
