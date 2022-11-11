@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 
 const Projects = () => {
   return (
@@ -7,6 +7,8 @@ const Projects = () => {
             <div className='text-3xl sm:text-5xl mx-20 font-semibold'>
                 My Projects
             </div>
+
+            <p className='mt-8 mx-8'>Grid containing screenshots and source code for a couple of projects will be shown here</p>
         </div>
     </section>
   )
