@@ -3,13 +3,10 @@ import React from 'react'
 const About = () => {
   return (
     <section id='about'>
-        <div className='flex flex-col items-center mt-28 text-5xl sm:text-7xl'>
-            <div>
-                Hi, I am
-            </div>
-            <div>
-                Raj
-            </div>  
+        <div className='flex flex-col items-center mt-28 text-5xl sm:text-7xl font-semibold'>
+            <div>Hi, I am</div>
+            <div>Raj</div> 
+            
         </div>
         <div className='flex flex-wrap mx-14 mt-20 justify-center text-center font-dot-gothic font-bold text-lg'>
             

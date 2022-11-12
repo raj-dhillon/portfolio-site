@@ -6,7 +6,7 @@ import Projects from './components/Projects.jsx';
 
 function App() {
   return (
-    <main className='text-main-text font-gothic-one'>
+    <main className='text-main-text font-nunito'>
       <About></About>
       <Skills></Skills>
       <Projects></Projects>
