@@ -8,6 +8,7 @@ module.exports = {
       colors: {
         'background': '#f3d8b3',
         'main-text': '#88745d',
+        'projects-border': '#8485b3',
       },
       fontFamily: {
         'poppins': ['Poppins', 'sans-serif'],
