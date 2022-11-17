@@ -13,6 +13,7 @@ const About = () => {
             <div>
                 I'm a Computer Science student at SPU, graduating in spring 2024. Among my hobbies are gaming, reading, exercising, and enjoying science fiction/fantasy films.
             </div>
+            <br></br>
 
             <div className='mt-8'>
                 I understand that improvement requires you to leave your comfort zone, so I strive to undertake things that I know will cause me discomfort in the name of growth.
