@@ -11,7 +11,7 @@ const Projects = () => {
     
     <div className='flex flex-col md:flex-row items-center justify-center'>
 
-      <div className='grid grid-cols-1 md:grid-cols-2 gap-4 mb-8'>
+      <div className='grid grid-cols-1 md:grid-cols-3 gap-4 mb-8'>
         {projects.map(project => (
           <ProjectsItem 
             imgUrl={project.imgUrl}
