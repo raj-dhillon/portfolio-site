@@ -1,10 +1,12 @@
 import React from 'react'
+import picture from '../rsc/picture.png'
 
 const About = () => {
   return (
     <section id='about'>
         <div className='flex flex-col items-center mt-28 text-5xl sm:text-7xl font-semibold'>
             <div>Hi, I am</div>
+            <img className='w-80 my-10 border rounded-full object-cover border-projects-border' src={picture} alt='Me.'></img>
             <div>Raj</div> 
             
         </div>
