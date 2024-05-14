@@ -9,7 +9,7 @@ const Projects = () => {
         My Projects
       </div>
     
-    <div className='flex flex-col md:flex-row items-center justify-center'>
+    <div className='flex flex-col md:flex-row items-center justify-center mx-4 md:mx-40'>
 
       <div className='grid grid-cols-1 md:grid-cols-3 gap-4 mb-8'>
         {projects.map(project => (
@@ -17,7 +17,8 @@ const Projects = () => {
             imgUrl={project.imgUrl}
             title={project.title}
             stack={project.stack}
-            link={project.link}>
+            link={project.link}
+            desc={project.desc}>
           </ProjectsItem>
         ))}
       </div>
