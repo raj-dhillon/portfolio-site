@@ -1,4 +1,10 @@
-export default [
+const projects = [
+    {
+        title: 'Major Schedule Generator',
+        imgUrl: 'assets/major_schedule_generator.png',
+        stack: ['Python', 'NetworkX'],
+        link: 'https://github.com/raj-dhillon/major-schedule-generator',
+    },
     {
         title: 'Dota or LoL Image Classifier',
         imgUrl: 'assets/dota_lol_classifier.png',
@@ -17,5 +23,6 @@ export default [
         stack: ['Python'],
         link: 'https://github.com/raj-dhillon/news-cli',
     },
-
 ]
+
+export default projects
