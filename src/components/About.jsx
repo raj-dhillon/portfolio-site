@@ -13,12 +13,12 @@ const About = () => {
         <div className='flex flex-wrap mx-14 mt-20 justify-center text-center font-nunito font-bold text-lg lg:mx-36'>
             
             <div>
-                I'm a Computer Science student at SPU, graduating in spring 2024. Among my hobbies are gaming, reading, exercising, and enjoying science fiction/fantasy films.
+                I'm a Computer Science student at SPU, graduating in spring 2024. Among my hobbies are gaming, cooking, exercising, and enjoying science fiction/fantasy films.
             </div>
             <br></br>
 
             <div className='mt-8'>
-                I understand that improvement requires you to leave your comfort zone, so I strive to undertake things that I know will cause me discomfort in the name of growth.
+                At the moment, I'm studying for the AWS Certified Developer - Associate certification and finishing up my senior project called Intention, which leverages LLMs to provide you with conversation-starting questions- allowing you to connect with those who are important to you effortlessly.
             </div>
 
         </div>
