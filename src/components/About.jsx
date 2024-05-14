@@ -1,5 +1,6 @@
 import React from 'react'
 import picture from '../rsc/picture.png'
+import resume from '../rsc/Resume_Dhillon_R.pdf'
 
 const About = () => {
   return (
@@ -19,6 +20,17 @@ const About = () => {
 
             <div className='mt-8'>
                 At the moment, I'm studying for the AWS Certified Developer - Associate certification and finishing up my senior project called Intention, which leverages LLMs to provide you with conversation-starting questions- allowing you to connect with those who are important to you effortlessly.
+            </div>
+
+            
+            <div className="mt-14 text-projects-border">
+                <a className='mr-14' href={resume} download>
+                    <span>Resume</span>
+                </a>
+
+                <a href='https://www.linkedin.com/in/rajdeep-dhillon/' target='_blank' rel='noreferrer'>
+                    <span>LinkedIn</span>
+                </a>
             </div>
 
         </div>
