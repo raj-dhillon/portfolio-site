@@ -19,7 +19,7 @@ const About = () => {
             <br></br>
 
             <div className='mt-8'>
-                At the moment, I'm studying for the AWS Certified Developer - Associate certification and finishing up my senior project called Intention, which leverages LLMs to provide you with conversation-starting questions- allowing you to connect with those who are important to you effortlessly.
+                I've just completed the AWS Certified Developer - Associate certification and am finishing up my senior project called Intention, which leverages LLMs to provide you with conversation-starting questions- allowing you to connect with those who are important to you effortlessly.
             </div>
 
             
