@@ -3,7 +3,8 @@ const projects = [
         title: 'Intention (Personal CRM)',
         imgUrl: 'assets/intention_app.png',
         stack: ['React Native', 'Expo', 'Flask', 'MySQL', 'WhisperAI', 'GPT', 'Clerk', 'Railway'],
-        link: 'assets/intention_erickson.pptx',
+        // link: 'assets/intention_erickson.pptx',
+        link: 'https://github.com/Intention00/intention-monorepo-org',
         desc: 'This is a five person team project for my Senior Capstone. ' +
                 'Intention uses the user\'s notes about their contacts along with ' +
                 'leveraging LLMs to provide them with conversation-starting ' + 
