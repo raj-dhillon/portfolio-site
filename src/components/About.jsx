@@ -14,12 +14,12 @@ const About = () => {
         <div className='flex flex-wrap mx-14 mt-20 justify-center text-center font-nunito font-bold text-lg lg:mx-36'>
             
             <div>
-                I'm a recent Computer Science graduate from SPU. Among my hobbies are gaming, cooking, exercising, and enjoying science fiction/fantasy films.
+                Recent Computer Science graduate with hands-on experience building full-stack apps. Driven by a curiosity to understand how every layer of a system connects, and ensuring it can run itself, and scale. Excited about joining a team where I can keep learning, share what I find out, and help bring projects to their fullest potential.
             </div>
             <br></br>
 
             <div className='mt-8'>
-                I've completed the AWS Certified Developer - Associate certification and recently finished my senior project called Intention, which leveraged LLMs to provide you with conversation-starting questions- allowing you to connect with those who are important to you effortlessly.
+                When I'm not coding, you'll find me stuck in self-reflection, engaging in and exploring ideas that are currently bouncing around my mind, or undertaking the sisyphean task of improving my memory. Try giving me a date, and I may be able to tell you the day.
             </div>
 
             
