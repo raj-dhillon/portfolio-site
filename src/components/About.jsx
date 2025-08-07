@@ -23,9 +23,13 @@ const About = () => {
             </div>
 
             
-            <div className="mt-14 text-projects-border">
-                <a className='mr-14' href={resume} download>
+            <div className="mt-14 text-projects-border flex justify-evenly w-full max-w-md mx-auto">
+                <a className='' href={resume} download>
                     <span>Resume</span>
+                </a>
+
+                <a className='' href='https://github.com/raj-dhillon/' target='_blank' rel='noreferrer'>
+                    <span>GitHub</span>
                 </a>
 
                 <a href='https://www.linkedin.com/in/rajdeep-dhillon/' target='_blank' rel='noreferrer'>
