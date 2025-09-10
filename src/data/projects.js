@@ -1,5 +1,14 @@
 const projects = [
     {
+        title: 'DevOps Pipeline',
+        imgUrl: 'assets/devops_pipeline_game.gif',
+        stack: ['JavaScript', 'Express.js', 'Docker', 'GitHub Actions', 'Prometheus', 'Grafana', 'nginx', 'Hetzner VPS', 'Phaser.js'],
+        link: 'https://github.com/raj-dhillon/devops-portfolio',
+        desc: 'This is a project that focuses on creating a DevOps pipeline using modern tools and practices. ' +
+                'It leverages containerization with Docker, CI/CD with GitHub Actions, and monitoring with Prometheus and Grafana.' +
+                ' The project is deployed on a Hetzner VPS and features a simple game built with Phaser.js to demonstrate the pipeline in action.'
+    },
+    {
         title: 'Intention (Personal CRM)',
         imgUrl: 'assets/intention_app.png',
         stack: ['React Native', 'Expo', 'Flask', 'MySQL', 'WhisperAI', 'GPT', 'Clerk', 'Railway'],
